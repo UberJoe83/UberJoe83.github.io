@@ -1,11 +1,11 @@
 # Site settings
 author: Jose Villalobos
-title: 
+title: Whoa! Data Science?!
 header-img: img/home-bg.png
 email: teacherjoe83@hotmail.com
 copyright_name: Jose Villalobos
 description: > # this means to ignore newlines until "baseurl:"
-  
+  UberJoe_2_DataSci-blog.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  UberJoe83
